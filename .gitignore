@@ -20,6 +20,9 @@
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
+**/.vscode
+**/.idea
+**/node_modules
 
 # CMake
 cmake-build-debug/
